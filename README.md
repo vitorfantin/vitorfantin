@@ -1,4 +1,4 @@
-# Perfil de Vitor Fantin | 🇧🇷 |
+# Perfil de Vitor Fantin 🇧🇷
 <div align="center">
   <a href="https://github.com/vitorfantin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorfantin&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/ > 
