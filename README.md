@@ -1,28 +1,20 @@
 # Perfil de Vitor Fantin 🇧🇷
 <div align="center">
   <a href="https://github.com/vitorfantin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorfantin&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/ > 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfantin&layout=compact&langs_count=7&theme=github_dark"/ >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorfantin&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfantin&layout=compact&langs_count=7&theme=github_dark" />
 </div>
 <br>
-<<<<<<< HEAD
 
   ##
-  ## Estudando 🎓⤵️
-  <div style="display: inline_block"><br>
-    <!-- 
-      <img align="center" alt="vf-phyton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-=======
- 
+
  ## Estudando 🎓⤵️
- <div style="display: inline_block">
-    <img align="center" alt="vf-phyton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
->>>>>>> a821795ea93fe1879c601f4144da5357e46fbc3d
-    <img align="center" alt="vf-phyton" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-    -->
-    <img align="center" alt="vf-phyton" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
- </div>
- 
+  
+<div style="display: inline_block">
+  <img align="center" alt="vf-phyton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="vf-kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img align="center" alt="vf-flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</div>
  <br>
  
  ## Contato ⤵️ 
