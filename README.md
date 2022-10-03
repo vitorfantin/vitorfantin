@@ -9,10 +9,10 @@
   ##
 
  ## Estudando 🎓⤵️
-  
+ <!--  OCULTADO  
 <div style="display: inline_block">
   <img align="center" alt="vf-kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-<!--  OCULTADO 
+
   <img align="center" alt="vf-phyton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="vf-flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 -->
