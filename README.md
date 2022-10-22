@@ -31,6 +31,8 @@
  
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  ![English](https://img.shields.io/badge/-English-brightgreen)
+  
+  ## Projetos 🌐 ⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey) 
  
  <!--  OCULTADO  
 <div style="display: inline_block">
