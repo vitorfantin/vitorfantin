@@ -13,6 +13,7 @@
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
  
  ## Estudos 2° Etapa 🎓⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey)
  
@@ -33,6 +34,11 @@
  ![English](https://img.shields.io/badge/-English-brightgreen)
   
   ## Projetos WEB3 🌐 ⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey) 
+  
+  
+  ## Projetos Apps 🌐 ⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey)
+  
+  [Repositório - Bootcamp Santander Developer Mobible](https://github.com/vitorfantin/app-soccers-news-dio)
  
  <!--  OCULTADO  
 <div style="display: inline_block">
