@@ -38,7 +38,7 @@
   
   ## Projetos Apps 🌐 ⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey)
   
-  [Repositório - Bootcamp Santander Developer Mobible](https://github.com/vitorfantin/app-soccers-news-dio)
+  [Repositório - Bootcamp Santander Developer Mobile](https://github.com/vitorfantin/app-soccers-news-dio)
  
  <!--  OCULTADO  
 <div style="display: inline_block">
