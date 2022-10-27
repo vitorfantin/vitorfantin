@@ -13,13 +13,17 @@
   ###  WEB3 | BLOCKCHAIN | MOBILE
 
  ## Estudos 1° Etapa 🎓⤵️ ![Andamento](https://img.shields.io/badge/-Andamamento-blue)
+ 
+ ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  
+ ## Estudos 2° Etapa 🎓⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey)
   
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   
  
- ## Estudos 2° Etapa 🎓⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey)
+ ## Estudos 3° Etapa 🎓⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey)
  
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -27,22 +31,22 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-## Estudos 3° Etapa 🎓⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey)
+## Estudos 4° Etapa 🎓⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey)
  
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
  
- ## Estudos Extra 🎓⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey)
+## Estudos Extra 🎓⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey)
   
- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  ![English](https://img.shields.io/badge/-English-brightgreen)
   
-  ## Projetos WEB3 🌐 ⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey) 
+## Projetos WEB3 🌐 ⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey) 
   
   
-  ## Projetos Apps 🌐 ⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey)
+## Projetos Apps 🌐 ⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey)
   
   [Repositório - Bootcamp Santander Developer Mobile](https://github.com/vitorfantin/app-soccers-news-dio)
  
