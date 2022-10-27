@@ -7,6 +7,10 @@
 <br>
 
   ##
+  
+  ## Objetivos de carreira 🎯🧰
+  
+  ###  WEB3 | BLOCKCHAIN | MOBILE
 
  ## Estudos 1° Etapa 🎓⤵️ ![Andamento](https://img.shields.io/badge/-Andamamento-blue)
   
