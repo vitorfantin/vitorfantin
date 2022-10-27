@@ -8,7 +8,7 @@
 
   ##
   
-  ## Objetivos de carreira 🎯🧰⤵️
+  ## Objetivos de carreira 🎯💼⤵️
   
   ###  WEB3 | BLOCKCHAIN | MOBILE
 
