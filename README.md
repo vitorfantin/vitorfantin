@@ -15,6 +15,7 @@
  ## Estudos 1° Etapa 🎓⤵️ ![Andamento](https://img.shields.io/badge/-Andamamento-blue)
  
  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+ ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
   
  ## Estudos 2° Etapa 🎓⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey)
   
