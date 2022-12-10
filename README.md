@@ -10,7 +10,7 @@
   
   ## Objetivos de carreira 🎯💼⤵️
   
-  ###  WEB3 | BLOCKCHAIN | MOBILE
+  ###  MOBILE | BLOCKCHAIN | WEB3
 
  ## Estudos 1° Etapa 🎓⤵️ ![Andamento](https://img.shields.io/badge/-Andamamento-blue)
  
@@ -23,6 +23,7 @@
  ## Estudos 2° Etapa 🎓⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey)
  
  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+ ![English](https://img.shields.io/badge/-English-brightgreen)
   
 
  
@@ -43,7 +44,7 @@
 
  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- ![English](https://img.shields.io/badge/-English-brightgreen)
+ 
   
 ## Projetos WEB3 🌐 ⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey) 
   
