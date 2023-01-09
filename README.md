@@ -8,11 +8,11 @@
 
   ##
   
-  ## Objetivos de carreira 🎯💼⤵️
+  ## Objetivo de carreira 🎯💼⤵️
   
-  ###  MOBILE | BLOCKCHAIN | WEB3
+  ###  ESPECIALISTA DESENVOLVIMENTO MOBILE 
 
- ## Estudos 1° Etapa 🎓⤵️ ![Andamento](https://img.shields.io/badge/-Andamamento-blue)
+ ## Estudos  🎓⤵️ ![Andamento](https://img.shields.io/badge/-Andamamento-blue)
  
  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Cursando](https://img.shields.io/badge/-Cursando-blueviolet)
   
@@ -20,7 +20,10 @@
   
  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
   
- ## Estudos 2° Etapa 🎓⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey)
+ 
+  <!--  OCULTADO  
+
+  ## Estudos 2° Etapa 🎓⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey)
  
  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
  ![English](https://img.shields.io/badge/-English-brightgreen)
@@ -44,10 +47,12 @@
 
  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
  
   
 ## Projetos WEB3 🌐 ⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey) 
   
+-->
   
 ## Projetos Apps 🌐 ⤵️ ![Aguardando](https://img.shields.io/badge/-Aguardando-lightgrey)
   
