@@ -40,17 +40,17 @@ Este resumo abrange minha trajetória e oferece vislumbre de quem sou. 🤩
   [Repositório - Bootcamp  | Flutter](https://github.com/vitorfantin/app-soccers-news-dio)
 
  
- 
  <center>
  
   <h2> Contato ⤵️ </h2>
-  
+
   Sinta-se à vontade para conectar! Estou aberto a novas conexões e colaborações. 🤝
   
 <div> 
  <a href = "mailto:fantinfx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/vitorfantin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" </a>
- <a href="https://t.me/vitorfantin" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" </a>
- </div>
+ <a href="https://www.linkedin.com/in/vitorfantin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+ <a href="https://t.me/vitorfantin" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+ <a href="https://web.dio.me/users/fantinfx?tab=skills" target="_blank"><img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge"></a>
+</div>
  
 </center>
