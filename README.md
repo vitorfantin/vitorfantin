@@ -1,11 +1,17 @@
 
 
 <center><h2>🚀 Sobre mim </h2></center>
-  Olá, tudo bem? 👋 Sou o Vitor 👨. Tenho paixão por séries de TV 📺, video games 🎮, música eletrônica e rock alternativo 🎶, além de adorar viajar ✈️. Entusiasta da tecnologia, explorei informática desde a adolescência. Iniciei minha segunda graduação em ciência da computação em 2023 pela faculdade descomplica, nos meus hórarios livres participo palestras e cursos com foco para desenvolvimento mobile, nunca trabalhei com desenvolvimento e estou realizando minha transição de carreira.
+ Olá, tudo bem?  👋 Sou o Vitor 👨. Tenho paixão por séries de TV 📺,  video games 🎮,  música eletrônica e rock alternativo 🎶, além de adorar viajar ✈️.  Entusiasta da tecnologia, explorei informática desde a adolescência. Iniciei com cursos básicos, aprendendo a mexer com computadores e notebooks, 🖥️ e logo me aventurei em Hardwares como hobby. Tive uma breve passagem como CLT, fazendo reparos em equipamentos. Minha paixão persistiu. Foquei em redes de computadores, buscando formação técnica. Apesar de não seguir diretamente nessa área, esse conhecimento contribuiu para meu crescimento pessoal e profissional. Destaquei-me em uma pequena empresa, participando com muita gratidão por quase 9 anos. Comecei como vendedor de balcão, lidando com segurança eletrônica. Tornei-me vendedor técnico, e em campo algumas vezes para resoluções de problemas, focado em Alarme, CFTV e CFTV IP com fibra óptica.
 
-  📚 Planejo pós-graduação em desenvolvimento mobile e sempre anseio por aprender. Acredito que aprendizado e experiências são bens preciosos.
+Introduzi Mikrotik no portfólio da empresa como roteadores de borda para lidar com sobrecarga, um desafio em escolas. Essa adição permitiu melhor gestão de acessos e um nível básico de segurança de rede. Embora não fosse minha função principal, esses conhecimentos melhoraram a produtividade e resolução de desafios.
 
-Uma frase motivadora em momentos difíceis, de autor desconhecido: ` "Não permita que obstáculos detenham você. Onde há obstáculos, há grandes oportunidades."` 🍃
+Após formação técnica, obtive diploma em Ciências Contábeis, mas percebi minha verdadeira paixão na tecnologia. Desejava criar soluções que agregassem valor. Considerei o desenvolvimento, especialmente em aplicativos móveis 📳. Em 2023, mudei de rumo, iniciando segunda graduação em Ciências da Computação na Descomplica Faculdade Digital. Participo de cursos livres, Bootcamps e palestras para aprimorar habilidades 👨‍💻 e contribuir com soluções que impactam positivamente.
+
+📚 Planejo pós-graduação em desenvolvimento mobile e sempre anseio por aprender. Acredito que aprendizado e experiências são bens preciosos.
+
+Uma frase motivadora em momentos difíceis, de autor desconhecido: `"Não permita que obstáculos detenham você. Onde há obstáculos, há grandes oportunidades."` 🍃
+
+Este resumo abrange minha trajetória e oferece vislumbre de quem sou. 🤩
 
 <center><h2>Meus Status </h2></center>
 
