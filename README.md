@@ -5,7 +5,7 @@
 
 Introduzi Mikrotik no portfólio da empresa como roteadores de borda para lidar com sobrecarga, um desafio em escolas. Essa adição permitiu melhor gestão de acessos e um nível básico de segurança de rede. Embora não fosse minha função principal, esses conhecimentos melhoraram a produtividade e resolução de desafios.
 
-Após formação técnica, obtive diploma em Ciências Contábeis, mas percebi minha verdadeira paixão na tecnologia. Desejava criar soluções que agregassem valor. Considerei o desenvolvimento, especialmente em aplicativos móveis 📳. Em 2023, mudei de rumo, iniciando segunda graduação em Ciências da Computação na Descomplica Faculdade Digital. Participo de cursos livres, Bootcamps e palestras para aprimorar habilidades 👨‍💻 e contribuir com soluções que impactam positivamente.
+Após formação técnica, obtive diploma em Ciências Contábeis, mas percebi minha verdadeira paixão na tecnologia. Desejava criar soluções que agregassem valor. Considerei o desenvolvimento. Em 2023, mudei de rumo, iniciando segunda graduação em Ciências da Computação na Descomplica Faculdade Digital. Participo de cursos livres, Bootcamps e palestras para aprimorar habilidades 👨‍💻 e contribuir com soluções que impactam positivamente.
 
 📚 Planejo pós-graduação em desenvolvimento mobile e sempre anseio por aprender. Acredito que aprendizado e experiências são bens preciosos.
 
