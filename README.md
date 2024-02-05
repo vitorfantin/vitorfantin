@@ -7,7 +7,6 @@ Introduzi Mikrotik no portfólio da empresa como roteadores de borda para lidar 
 
 Após formação técnica, obtive diploma em Ciências Contábeis, mas percebi minha verdadeira paixão na tecnologia. Desejava criar soluções que agregassem valor. Considerei o desenvolvimento. Em 2023, mudei de rumo, iniciando segunda graduação em Ciências da Computação na Descomplica Faculdade Digital. Participo de cursos livres, Bootcamps e palestras para aprimorar habilidades 👨‍💻 e contribuir com soluções que impactam positivamente.
 
-📚 Planejo pós-graduação em desenvolvimento mobile e sempre anseio por aprender. Acredito que aprendizado e experiências são bens preciosos.
 
 Uma frase motivadora em momentos difíceis, de autor desconhecido: `"Não permita que obstáculos detenham você. Onde há obstáculos, há grandes oportunidades."` 🍃
 
@@ -26,8 +25,7 @@ Este resumo abrange minha trajetória e oferece vislumbre de quem sou. 🤩
 
   <h2> Habilidades / Conhecimentos 🎓</h2>
  
- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
  ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 </center>
