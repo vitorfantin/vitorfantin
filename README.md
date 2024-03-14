@@ -33,10 +33,7 @@ Este resumo abrange minha trajetória e oferece vislumbre de quem sou. 🤩
   
 <center><h2>Repositórios Projetos Apps 🌐  </h2></center>
   
-  [Bootcamp Santander Developer Mobile (2022) | Kotlin e Java | app-soccers-news-dio](https://github.com/vitorfantin/app-soccers-news-dio)
-
-  [Repositório - Bootcamp  | Flutter](https://github.com/vitorfantin/app-soccers-news-dio)
-
+ 
  
  <center>
  
