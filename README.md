@@ -1,36 +1,38 @@
 <h1 align="center">Olá, eu sou o Vitor Fantin 👋</h1>
 
-Sou apaixonado por tecnologia, em **transição de carreira para Desenvolvimento Mobile com Flutter**.  
-Atualmente curso **Ciência da Computação** pela [Descomplica Faculdade Digital](https://descomplica.com.br/faculdade/) e estou focado em estudar **Dart e Flutter** para construir soluções modernas e eficientes.
+Sou apaixonado por tecnologia, atualmente em **transição de carreira para a área de Qualidade de Software (QA)**.  
+Curso **Ciência da Computação** pela [Descomplica Faculdade Digital](https://descomplica.com.br/faculdade/), com término previsto para jun/2027, e estou focado em aprender fundamentos de testes de software, boas práticas de QA e ferramentas de versionamento.
 
-Com mais de 8 anos de experiência anterior na área técnica de segurança eletrônica e redes, desenvolvi um olhar prático para resolução de problemas, lógica, e estruturação de sistemas — habilidades que agora aplico no universo da programação.
+Com mais de 8 anos de experiência anterior na área técnica de segurança eletrônica e redes, desenvolvi um olhar analítico, atenção aos detalhes e foco em resolução de problemas — habilidades essenciais para garantir a qualidade de sistemas e produtos de software.
 
 ---
 
 ## 🚀 Objetivo
 
-Busco minha primeira oportunidade como **Estagiário ou Desenvolvedor Júnior Flutter**. Estou praticando com projetos reais, participando de bootcamps e construindo meu portfólio no GitHub para evoluir como desenvolvedor.
+Busco minha primeira oportunidade como **Estagiário em QA / Testes de Software**, onde eu possa colocar meus conhecimentos em prática, colaborar com a equipe e crescer profissionalmente na área de Qualidade de Software.
 
 ---
 
 ## 🧠 Atualmente estudando
 
-- Flutter & Dart
-- Lógica de Programação
-- Git e GitHub
-- API REST com Flutter
-- Clean Architecture & Boas Práticas
+- Fundamentos de QA e Testes de Software  
+- Testes Manuais e Exploratório  
+- Documentação de bugs e relatórios  
+- Lógica de Programação  
+- Git e GitHub  
+- Metodologias Ágeis (Scrum/Kanban)
 
 ---
 
-## 💼 Projetos em Flutter
+## 💼 Projetos e Estudos QA
 
 <!--
-🔹 [Calculadora Flutter](https://github.com/vitorfantin/calculadora_flutter)  
-🔹 [Lista de Tarefas](https://github.com/vitorfantin/lista_de_tarefas_flutter)  
-🔹 [App de Clima com API](https://github.com/vitorfantin/app_clima_flutter)  
-*(Substitua os links conforme publicar)*
+🔹 [CheckList de Testes - Projeto Simples]  
+🔹 [Relatório de Bugs - Sistema Simulado]  
+🔹 [Análise de Casos de Teste - Exemplo de Documentação]  
+*(Adicione links quando publicar no GitHub)*
 -->
+
 ---
 
 ## 📊 GitHub Stats
@@ -45,9 +47,9 @@ Busco minha primeira oportunidade como **Estagiário ou Desenvolvedor Júnior Fl
 ## 🛠 Habilidades & Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QA%20Manual-007396?style=for-the-badge&logo=testing-library&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 
