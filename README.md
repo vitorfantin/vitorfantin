@@ -13,19 +13,19 @@ Busco minha primeira oportunidade como **Estagiário em QA / Testes de Software*
 
 ---
 
-## 🧠 Atualmente estudando
+## 🧠 Atualmente estudando e os próximos passos
 
-- Fundamentos de QA e Testes de Software  
-- Testes Manuais e Exploratório  
-- Documentação de bugs e relatórios  
-- Lógica de Programação  
-- Git e GitHub  
-- Metodologias Ágeis (Scrum/Kanban)
+- [Formação: Carreira QA: processos e automação de testes - Alura](https://cursos.alura.com.br/formacao-carreira-tester-qa) - Andamento
+- [Formação: Carreira QA: avançando em Cypress e implementando integração contínua](https://cursos.alura.com.br/formacao-qa-avancado-cypress-integracao-continua) - Lista de espera
+- [Formação: Praticando JavaScript](https://cursos.alura.com.br/formacao-praticando-javascript) - Lista de espera
+- [Integração Contínua e Entrega Contínua](https://cursos.alura.com.br/formacao-integracao-continua-entrega-continua) - Lista de espera
 
 ---
 
 ## 💼 Projetos e Estudos QA
 
+ 🔹 [Robot Framework Iniciante - Alura](https://github.com/vitorfantin/robot_framework_alura_wsl)
+ 🔹 [Cypress Iniciante - Alura](https://github.com/vitorfantin/cypress_e2e_alura)
 <!--
 🔹 [CheckList de Testes - Projeto Simples]  
 🔹 [Relatório de Bugs - Sistema Simulado]  
@@ -47,10 +47,17 @@ Busco minha primeira oportunidade como **Estagiário em QA / Testes de Software*
 ## 🛠 Habilidades & Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/QA%20Manual-007396?style=for-the-badge&logo=testing-library&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <!--
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  -->
+  
 </div>
 
 ---
