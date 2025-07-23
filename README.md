@@ -16,9 +16,9 @@ Busco minha primeira oportunidade como **Estagiário em QA / Testes de Software*
 ## 🧠 Atualmente estudando e os próximos passos
 
 - [Formação: Carreira QA: processos e automação de testes - Alura](https://cursos.alura.com.br/formacao-carreira-tester-qa) - Concluído - 07/2025
-- [Formação: Carreira QA: avançando em Cypress e implementando integração contínua](https://cursos.alura.com.br/formacao-qa-avancado-cypress-integracao-continua) - Em Andamento
-- [Formação: Praticando JavaScript](https://cursos.alura.com.br/formacao-praticando-javascript) - Lista de espera
-- [Integração Contínua e Entrega Contínua](https://cursos.alura.com.br/formacao-integracao-continua-entrega-continua) - Lista de espera
+- [Formação: Carreira QA: avançando em Cypress e implementando integração contínua - Alura](https://cursos.alura.com.br/formacao-qa-avancado-cypress-integracao-continua) - Em Andamento
+- [Formação: Praticando JavaScript - Alura](https://cursos.alura.com.br/formacao-praticando-javascript) - Lista de espera
+- [Integração Contínua e Entrega Contínua - Alura](https://cursos.alura.com.br/formacao-integracao-continua-entrega-continua) - Lista de espera
 
 ---
 
