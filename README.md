@@ -1,9 +1,8 @@
 <h1 align="center">Olá, eu sou o Vitor Fantin 👋</h1>
 
-Sou apaixonado por tecnologia, atualmente em **transição de carreira para a área de Qualidade de Software (QA)**.  
-Curso **Ciência da Computação** pela [Descomplica Faculdade Digital](https://descomplica.com.br/faculdade/), com término previsto para jun/2027, e estou focado em aprender fundamentos de testes de software, boas práticas de QA e ferramentas de versionamento.
+Atualmente curso Ciência da Computação, com previsão de conclusão em dezembro de 2026. Após a graduação, pretendo iniciar a pós-graduação em Engenharia de Qualidade e Teste de Software pela PUC Minas, com o objetivo de aprofundar meus conhecimentos e me especializar ainda mais na área.
+Tenho vivência prática com testes de software por meio de cursos, bootcamps e projetos práticos, cujos códigos e aprendizados estão disponíveis no meu GitHub. Nessas experiências, desenvolvi testes automatizados utilizando diferentes ferramentas e em boas práticas de qualidade de software.
 
-Com mais de 8 anos de experiência anterior na área técnica de segurança eletrônica e redes, desenvolvi um olhar analítico, atenção aos detalhes e foco em resolução de problemas — habilidades essenciais para garantir a qualidade de sistemas e produtos de software.
 
 ---
 
