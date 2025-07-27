@@ -12,7 +12,7 @@ Com mais de 8 anos de experiência anterior na área técnica de segurança elet
 Busco minha primeira oportunidade como **Estagiário em QA / Testes de Software**, onde eu possa colocar meus conhecimentos em prática, colaborar com a equipe e crescer profissionalmente na área de Qualidade de Software.
 
 ---
-
+<!--
 ## 🧠 Atualmente estudando e os próximos passos
 
 - [Formação: Carreira QA: processos e automação de testes - Alura](https://cursos.alura.com.br/formacao-carreira-tester-qa) - Concluído - 07/2025
@@ -21,7 +21,7 @@ Busco minha primeira oportunidade como **Estagiário em QA / Testes de Software*
 - [Integração Contínua e Entrega Contínua - Alura](https://cursos.alura.com.br/formacao-integracao-continua-entrega-continua) - Lista de espera
 
 ---
-
+-->
 ## 💼 Projetos e Estudos QA
 
  🔹 [Robot Framework Iniciante - Alura](https://github.com/vitorfantin/robot_framework_alura_wsl)
