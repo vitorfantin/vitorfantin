@@ -11,10 +11,13 @@ Tenho vivência prática com testes de software por meio de cursos, bootcamps e 
 Busco minha primeira oportunidade como **Estagiário em QA / Testes de Software**, onde eu possa colocar meus conhecimentos em prática, colaborar com a equipe e crescer profissionalmente na área de Qualidade de Software.
 
 ---
-<!--
+
 ## 🧠 Atualmente estudando e os próximos passos
 
 - [Formação: Carreira QA: processos e automação de testes - Alura](https://cursos.alura.com.br/formacao-carreira-tester-qa) - Concluído - 07/2025
+- [MasterClass - QAzando](https://qazando.com.br/) - Em Andamento
+- 
+<!--
 - [Formação: Carreira QA: avançando em Cypress e implementando integração contínua - Alura](https://cursos.alura.com.br/formacao-qa-avancado-cypress-integracao-continua) - Em Andamento
 - [Formação: Praticando JavaScript - Alura](https://cursos.alura.com.br/formacao-praticando-javascript) - Lista de espera
 - [Integração Contínua e Entrega Contínua - Alura](https://cursos.alura.com.br/formacao-integracao-continua-entrega-continua) - Lista de espera
