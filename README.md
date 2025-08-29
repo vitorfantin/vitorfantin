@@ -1,14 +1,15 @@
 <h1 align="center">Olá, eu sou o Vitor Fantin 👋</h1>
 
-Atualmente curso Ciência da Computação, com previsão de conclusão em dezembro de 2026. Após a graduação, pretendo iniciar a pós-graduação em Engenharia de Qualidade e Teste de Software pela PUC Minas, com o objetivo de aprofundar meus conhecimentos e me especializar ainda mais na área.
-Tenho vivência prática com testes de software por meio de cursos, bootcamps e projetos práticos, cujos códigos e aprendizados estão disponíveis no meu GitHub. Nessas experiências, desenvolvi testes automatizados utilizando diferentes ferramentas e em boas práticas de qualidade de software.
+Sou estudante de Ciência da Computação (previsão de conclusão: dezembro/2026) e estou focado em me desenvolver na área de QA (Quality Assurance). Após a graduação, pretendo iniciar uma pós-graduação em Engenharia de Qualidade e Teste de Software pela PUC Minas, reforçando ainda mais minha especialização na área.
+
+Em agosto/2025, iniciei o projeto FTN Hub, um site em React desenvolvido 100% pela IA Horizons da Hostinger. O objetivo do projeto é praticar meus conhecimentos em testes de software, gerenciamento e automação de testes, além de se tornar um hub de ferramentas digitais para usuários em geral e profissionais de tecnologia. Dentro dele, criei o QA LAB, um espaço exclusivo para prática de testes e automação.
 
 
 ---
 
 ## 🚀 Objetivo
 
-Busco minha primeira oportunidade como **Estagiário em QA / Testes de Software**, onde eu possa colocar meus conhecimentos em prática, colaborar com a equipe e crescer profissionalmente na área de Qualidade de Software.
+Atualmente, estou aberto a oportunidades como Analista de QA Júnior ou Estagiário em Testes de Software, buscando contribuir com valor à empresa e, ao mesmo tempo, aprimorar minhas habilidades.
 
 ---
 
