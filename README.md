@@ -17,7 +17,7 @@ Atualmente, estou aberto a oportunidades como Analista de QA Júnior ou Estagiá
 
 - [Formação: Carreira QA: processos e automação de testes - Alura](https://cursos.alura.com.br/formacao-carreira-tester-qa) - Concluído - 07/2025
 - [MasterClass - QAzando](https://qazando.com.br/) - Em Andamento
-- 
+- [Bootcamp - Atlântico Avanti]([https://qazando.com.br/)](https://atlanticoavanti.ensinio.com/g/bootcamp-quality-assurance/about) - Em Andamento
 <!--
 - [Formação: Carreira QA: avançando em Cypress e implementando integração contínua - Alura](https://cursos.alura.com.br/formacao-qa-avancado-cypress-integracao-continua) - Em Andamento
 - [Formação: Praticando JavaScript - Alura](https://cursos.alura.com.br/formacao-praticando-javascript) - Lista de espera
