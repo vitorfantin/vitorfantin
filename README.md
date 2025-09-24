@@ -28,7 +28,14 @@ Atualmente, estou aberto a oportunidades como Analista de QA Júnior ou Estagiá
 ## 💼 Projetos e Estudos QA
 
  🔹 [Robot Framework Iniciante - Alura](https://github.com/vitorfantin/robot_framework_alura_wsl)
+ <br>
  🔹 [Cypress Iniciante - Alura](https://github.com/vitorfantin/cypress_e2e_alura)
+  <br>
+ 🔹 [Cypress WEB | API - QAzando](https://github.com/vitorfantin/Cypress_QAzando)
+  <br>
+ 🔹 [CodeceptJS WEB | API - QAzando](https://github.com/vitorfantin/codeceptJS_QAzando)
+  <br>
+ 🔹 [Cypress - FTNHub - Projeto Produção - Pessoal - Somente Automação](https://github.com/vitorfantin/ftnhub-automacao)
 <!--
 🔹 [CheckList de Testes - Projeto Simples]  
 🔹 [Relatório de Bugs - Sistema Simulado]  
