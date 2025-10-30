@@ -16,8 +16,8 @@ Atualmente, estou aberto a oportunidades como Analista de QA Júnior ou Estagiá
 ## 🧠 Atualmente estudando e os próximos passos
 
 - [Formação: Carreira QA: processos e automação de testes - Alura](https://cursos.alura.com.br/formacao-carreira-tester-qa) - Concluído - 07/2025
+- [Bootcamp - Atlântico Avanti](https://atlanticoavanti.ensinio.com/g/bootcamp-quality-assurance/about) - Concluído - 10/2025
 - [MasterClass - QAzando](https://qazando.com.br/) - Em Andamento
-- [Bootcamp - Atlântico Avanti](https://atlanticoavanti.ensinio.com/g/bootcamp-quality-assurance/about) - Em Andamento
 <!--
 - [Formação: Carreira QA: avançando em Cypress e implementando integração contínua - Alura](https://cursos.alura.com.br/formacao-qa-avancado-cypress-integracao-continua) - Em Andamento
 - [Formação: Praticando JavaScript - Alura](https://cursos.alura.com.br/formacao-praticando-javascript) - Lista de espera
@@ -35,11 +35,13 @@ Atualmente, estou aberto a oportunidades como Analista de QA Júnior ou Estagiá
   <br>
  🔹 [CodeceptJS WEB | API - QAzando](https://github.com/vitorfantin/codeceptJS_QAzando)
   <br>
- 🔹 [Cypress - FTNHub - Projeto Produção - Pessoal - Somente Automação](https://github.com/vitorfantin/ftnhub-automacao)
+  🔹 [Cypress | Bootcamp Escola Atlântico Avanti | Documentação á Automação - Projeto em Equipe](https://github.com/vitorfantin/qa-bootcamp-atlantico-avanti-squad6)
+ 
 <!--
 🔹 [CheckList de Testes - Projeto Simples]  
 🔹 [Relatório de Bugs - Sistema Simulado]  
 🔹 [Análise de Casos de Teste - Exemplo de Documentação]  
+🔹 [Cypress - FTNHub - Projeto Produção - Pessoal - Somente Automação](https://github.com/vitorfantin/ftnhub-automacao)
 *(Adicione links quando publicar no GitHub)*
 -->
 
