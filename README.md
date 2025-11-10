@@ -1,27 +1,16 @@
 <h1 align="center">Olá, eu sou o Vitor Fantin 👋</h1>
 
-Sou estudante de Ciência da Computação (previsão de conclusão: dezembro/2026) e estou focado em me desenvolver na área de QA (Quality Assurance).
+Sou Analista de QA Júnior na Pipoca Ágil como voluntário, onde realizo a execução de testes manuais e automatizados, sempre com o objetivo de garantir a qualidade contínua das entregas. Minha atuação inclui o desenvolvimento de automações utilizando Cypress, empregando boas práticas como Page Objects e Commands para manutenção e reutilização de código. Também contribuo para testes de API utilizando ferramentas como Postman Com experiência prévia de mais de dois anos como profissional autônomo em suporte técnico, redes e segurança eletrônica, trago uma abordagem prática e orientada a resultados para o setor de Quality Assurance. Sou motivado a colaborar com equipes para entregar soluções confiáveis e eficientes, enquanto busco constantemente expandir minhas competências na área de testes de software.
+
 
 ---
 
 ## 🚀 Objetivo
 
-Atualmente, estou aberto a oportunidades como Analista de QA Júnior ou Estagiário em Testes de Software, buscando contribuir com valor à empresa e, ao mesmo tempo, aprimorar minhas habilidades.
+Atualmente, estou aberto a oportunidades, buscando contribuir com valor à empresa e, ao mesmo tempo, aprimorar minhas habilidades.
 
 ---
 
-## 🧠 Atualmente estudando e os próximos passos
-
-- [Formação: Carreira QA: processos e automação de testes - Alura](https://cursos.alura.com.br/formacao-carreira-tester-qa) - Concluído - 07/2025
-- [Bootcamp - Atlântico Avanti](https://atlanticoavanti.ensinio.com/g/bootcamp-quality-assurance/about) - Concluído - 10/2025
-- [MasterClass - QAzando](https://qazando.com.br/) - Em Andamento
-<!--
-- [Formação: Carreira QA: avançando em Cypress e implementando integração contínua - Alura](https://cursos.alura.com.br/formacao-qa-avancado-cypress-integracao-continua) - Em Andamento
-- [Formação: Praticando JavaScript - Alura](https://cursos.alura.com.br/formacao-praticando-javascript) - Lista de espera
-- [Integração Contínua e Entrega Contínua - Alura](https://cursos.alura.com.br/formacao-integracao-continua-entrega-continua) - Lista de espera
-
----
--->
 ## 💼 Projetos e Estudos QA
 
  🔹 [Robot Framework Iniciante - Alura](https://github.com/vitorfantin/robot_framework_alura_wsl)
